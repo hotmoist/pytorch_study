@@ -1,4 +1,4 @@
-# pytorch_study
+# pytorch study
 pytorch study from tutorial and Udemy
 
 # 사용한 프레임워크
